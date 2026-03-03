@@ -1,0 +1,8 @@
+PySide6
+psutil
+WMI
+py-cpuinfo
+nvidia-ml-py
+
+
+#NVIDIA kartı olmayan sistemlerde nvdia-ml.py opsiyoneldir.
